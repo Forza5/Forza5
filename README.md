@@ -40,8 +40,8 @@
 </div>
 
 <div align="center">
-    <h2>Contect me</h2>
-    📧 Email: 5ikve@naver.com
+    <h2>Contect</h2>
+    📧 Email: ganp433@gmail.com
 </div>
 
 
