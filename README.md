@@ -34,13 +34,11 @@
 
 <div align="center">
     <h2>GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forza5&layout=compact&theme=transparent" />
 </div>
 
 <div align="center">
-    <h2>Contect</h2>
+    <h2>Contact</h2>
     📧 Email: ganp433@gmail.com
 </div>
 
