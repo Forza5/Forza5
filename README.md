@@ -23,7 +23,6 @@
     </p>
     <br>
     <h4>💡used at least once</h4>
-    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=black">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=Redux_toolkit&logoColor=white">
