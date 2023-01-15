@@ -32,6 +32,7 @@
     <br>
     <h4>studying</h4>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
 <br>
 
